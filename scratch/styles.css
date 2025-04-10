@@ -1,0 +1,58 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(248, 160, 160);
+    color: rgb(0, 0, 116);
+    background-image: url("https://www.shutterstock.com/image-vector/gelato-character-ice-ceam-retro-260nw-2394906181.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a {
+    color: antiquewhite
+    background-color: darkgray
+}
+a:visited {
+    color: bisque;
+}
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+img {
+    border: 5px solid palevioletred;
+    padding: 5px;
+    height: 250px;
+    /* margin: auto; */
+    /* display:block */
+}
+
+.rizz {
+    font-family: cursive;
+    color: rgb(133, 234, 247);
+    border: 5px;
+    font-size: 200%;
+    font-weight: bolder;
+    background-color: rgb(109, 168, 170);
+}
+
+.rizz:hover {
+    font-size: 300%;
+    color: rgb(114, 110, 249);
+    border: 5px solid lightblue;
+}
+
+li {
+    width: fit-content;
+}
+
+li:hover {
+    text-decoration: underline;
+    background-color: lightslategray;
+}
+.link {
+    text-decoration: none;
+    color: rgb(165, 42, 69) !important;
+}

@@ -1,0 +1,10 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(240, 233, 244);
+}
+h1,h2,h3, .subheading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+a:hover{
+    color: #50c2fb !important; 
+}
